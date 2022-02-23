@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A quære concerning drinking Bath-water, at Bathe, resolved by Evgenivs Philander.</title>
+            <author>Guidott, Thomas, fl. 1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42305</idno>
+            <idno type="STC">Wing G2198</idno>
+            <idno type="STC">ESTC R7543</idno>
+            <idno type="EEBO-CITATION">11800771</idno>
+            <idno type="OCLC">ocm 11800771</idno>
+            <idno type="VID">49374</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42305)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49374)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 533:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A quære concerning drinking Bath-water, at Bathe, resolved by Evgenivs Philander.</title>
+                  <author>Guidott, Thomas, fl. 1698.</author>
+                  <author>Jorden, Edward, 1569-1632. Discourse of naturall baths and minerall waters.</author>
+               </titleStmt>
+               <extent>[2], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Sawbridge ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Thomas Guidott, writing under the pseudonym Evgenius Philander. Cf. BM</note>
+                  <note>Reproduction of original in Bristol Public Library, Bristol, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mineral waters --  England --  Bath.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49374:1" rendition="simple:additions"/>
+            <p>A QUAERE Concerning Drinking Bath-Water, AT BATHE, RESOLVED.</p>
+            <p>BY <hi>E<g ref="char:V">Ʋ</g>GENI<g ref="char:V">Ʋ</g>S PHILANDER.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>George Sawbridge,</hi> at the Bible on <hi>Ludgate-hill,</hi> 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49374:2"/>
+            <pb n="1" facs="tcp:49374:2"/>
+            <head>
+               <hi>THE QUESTION.</hi> Whether the <hi>Bath-Water</hi> of the Bathes of <hi>Bath</hi> in <hi>Somerſetſhire,</hi> may be ſafe<g ref="char:EOLhyphen"/>ly uſed inwardly; and what Courſe is to be taken by thoſe that would uſe it ſo as to find benefit thereby.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Drinking of the <hi>Bath-Water</hi> at <hi>Bath,</hi> having late<g ref="char:EOLhyphen"/>ly met with great applauſe, which may incourage ſome inconſiderately to uſe it, the many, or multitude, being like thoſe Animals
+<pb n="2" facs="tcp:49374:3"/>that follow one another, and apt to go the broader way, though it lead to ru<g ref="char:EOLhyphen"/>ine: On no other deſign than my own ſatisfaction, and the benefit of thoſe that ſhall commit themſelves to my di<g ref="char:EOLhyphen"/>rections, I have drawn up the follow<g ref="char:EOLhyphen"/>ing deciſion of this two-fold Queſtion, in as plain, ſatisfactory, and ſignificant a manner, as my preſent occaſions, and divertiſements of another Nature, will permit me to do.</p>
+            <p>But before I give a poſitive and particular anſwer to the Queſtion pro<g ref="char:EOLhyphen"/>poſed, I muſt crave leave, with the beſt Mineral and Metallick Fathers, to premiſe, That all Mineral Waters are not alike admitted to an Internal Uſe; For firſt, all ſuch are juſtly ex<g ref="char:EOLhyphen"/>cluded, that contain in them, or are impregnated with, any noxious In<g ref="char:EOLhyphen"/>gredient, ſuch as are <hi>Quick-ſilver, Lead, Gypſum, &amp;c.</hi>
+            </p>
+            <pb n="3" facs="tcp:49374:3"/>
+            <p>
+               <hi>Quick-ſilver</hi> is no friend to the Nerves, and though it may, and hath been given inwardly, both liquid, and Solid, in a ſmall proportion by Pra<g ref="char:EOLhyphen"/>ctitioners, with good ſucceſs in the Worms, and in greater quantity on other emergent occaſions; yet the con<g ref="char:EOLhyphen"/>ſtant uſe thereof is not warrantable, eſpecially in Mineral-Waters, that in ſo vaſt a proportion as they are uſu<g ref="char:EOLhyphen"/>ally preſcribed, muſt neceſſarily for ſome time lodge in the Stomach, paſs through the Inteſtines, and touch on many Nervous and Membranous parts of the Body, before they come to the Ureters and Bladder for excretion. That all Waters ſuppoſed to proceed from <hi>Quick-ſilver,</hi> are to be avoided, I know is contradicted by ſome Au<g ref="char:EOLhyphen"/>thors of good Credit, and particular<g ref="char:EOLhyphen"/>ly the Waters of <hi>Serra Morena,</hi> and <hi>la Nava</hi> in <hi>Spain, Almagra, Toletum,</hi> and others by the <hi>Rus Mimus,</hi> as
+<pb n="4" facs="tcp:49374:4"/>the Learned Doctor <hi>Jorden</hi> obſerves, are found to be wholſome; however, ſince many venomous Springs are adjudged (how juſtly I ſay not) im<g ref="char:EOLhyphen"/>pregnated with this Mineral, and ma<g ref="char:EOLhyphen"/>ny ill effects have been produced by no very great proportion taken into the body; others more wary, have wholly excluded them from an Inter<g ref="char:EOLhyphen"/>nal Uſe; whereupon <hi>Paledinus</hi> hath this Note; <hi>In univerſum excluduntur ab hoc uſu quae aliquid metallicum noxium in ſe habent;</hi> Amongſt which he rec<g ref="char:EOLhyphen"/>kons <hi>Argentum Vivum.</hi>
+            </p>
+            <p>
+               <hi>Lead-Waters</hi> are alſo accounted un<g ref="char:EOLhyphen"/>wholſome to be uſed in this man<g ref="char:EOLhyphen"/>ner; <hi>Caveatis à potu talium aquarum quae habent in ſe Plumbum,</hi> ſaith <hi>Fal<g ref="char:EOLhyphen"/>lopius;</hi> and he gives this reaſon, <hi>quia periculum eſt, ne natura Plumbi con<g ref="char:EOLhyphen"/>verſa vel in Lithargyrum vel in ali<g ref="char:EOLhyphen"/>ud ſimile, ut ſolet, hominem enecet:</hi>
+               <pb n="5" facs="tcp:49374:4"/>leſt the nature of Lead be converted into Litharge, or ſomething like it, as it often is, and men die thereupon. But perhaps there may be little need of this Caution, ſince, if we believe others, there are no Waters obſerved that are impregnated with Lead; I confeſs I have met with none but the <hi>Plumbeae, Plumbares,</hi> or <hi>Plumbariae,</hi> in that part of <hi>Germany</hi> called <hi>Lorain,</hi> which yet may not have that name from their being infected with Lead, but more probably, as <hi>John Bauhi<g ref="char:EOLhyphen"/>nus</hi> ſuppoſeth, from the ſcalding of Fowls, which they do by the Heat of thoſe Waters, and ought to be cal<g ref="char:EOLhyphen"/>led <hi>Plumiers,</hi> as <hi>Pictorius</hi> writes it, from the <hi>French</hi> word <hi>Plumer, à de<g ref="char:EOLhyphen"/>plumando,</hi> as a Learned Phyſician of our own hath obſerved.</p>
+            <p>
+               <hi>Gypſum,</hi> or Plaiſter-waters, are ac<g ref="char:EOLhyphen"/>counted noxious in regard of their
+<pb n="6" facs="tcp:49374:5"/>over-cooling and refrigerating nature, which proves deſtructive, and there<g ref="char:EOLhyphen"/>fore no Phyſician hath ever ordered the uſe of them in Drinks. The like may be ſaid of <hi>Arſenick, Auripigmen<g ref="char:EOLhyphen"/>tum, Riſagalum, Sandaracha, Ruſma,</hi> and <hi>Cadmia</hi> natural, which being Ve<g ref="char:EOLhyphen"/>nomous, and ſtrongly Corroſive, are dangerous, and no way to be uſed in<g ref="char:EOLhyphen"/>wardly in the manner under debate.</p>
+            <p>But to come nearer our purpoſe; Neither are Waters that have in them Liquid <hi>Bitumen,</hi> and eſpecially <hi>Naph<g ref="char:EOLhyphen"/>tha,</hi> eſteemed fit to be drank, be<g ref="char:EOLhyphen"/>cauſe they more than ordinarily relax the Stomach and Guts, partly on the account of their Fattineſs, and partly by reaſon of too much Moiſture, by which the Tone of the parts is inju<g ref="char:EOLhyphen"/>red, and conſequently the ſtrength of the Stomach and Guts enervated, to the great and inevitable detriment of
+<pb n="7" facs="tcp:49374:5"/>the reſt of the Body. <hi>Sed &amp; Bitumen liquidum habentes, quòd praeter modum relaxant, inutiles ſunt,</hi> ſaith <hi>Claudinus;</hi> And <hi>Fallopius</hi> more particularly, <hi>Ad<g ref="char:EOLhyphen"/>datis Aquas quae habent Bitumen Li<g ref="char:EOLhyphen"/>quidum, praecipuè Naphtham, quae a<g ref="char:EOLhyphen"/>quae noxiae ſunt, quia relaxant ven<g ref="char:EOLhyphen"/>triculum &amp; inteſtina, praeter modum, partim ratione Pinguedinis, partim quia habent vim humectandi, relaxan<g ref="char:EOLhyphen"/>do autem diſſipant omne robur Viſcerum, &amp; ideo non conveniunt in Potu.</hi> I know the Teſtimony of the Ancients, <hi>Archigenes, Galen, Paulus,</hi> and <hi>Vi<g ref="char:EOLhyphen"/>truvius,</hi> are alleged in favour of Bi<g ref="char:EOLhyphen"/>tuminous Waters; but the anſwer is obvious, That they are to be under<g ref="char:EOLhyphen"/>ſtood of Waters paſſing through veins of a ſolid and dry <hi>Bitumen,</hi> which were in uſe for purging heretofore, and not of a Liquid. <hi>Claudinus; Quae per venas tranſeunt bituminis ſicci poſ<g ref="char:EOLhyphen"/>ſunt in potu convenire; &amp; de his in<g ref="char:EOLhyphen"/>telligendi
+<pb n="8" facs="tcp:49374:6"/>ſunt</hi> Archigenes, Galenus, Paulus, Vitruvius, <hi>cum eas pro Potu proponunt.</hi>
+            </p>
+            <p>The like cenſure hath paſs'd on all Sulphurous Waters that have Brim<g ref="char:EOLhyphen"/>ſtone alone, and no other Mineral commixed with it; as appears from the Teſtimony of <hi>Antyllus</hi> an ancient Phyſician in <hi>Oribaſius,</hi> who gives this reaſon, that they relax the Orifice, ſubvert, and effeminate the body of the Stomach; which is alſo confirm<g ref="char:EOLhyphen"/>ed by the concurrent judgment of other Phyſicians, which, for brevity ſake, I muſt here omit; only obſerve this by the way, That whereas Waters purely Sulphurous were condemned, thoſe that had any other Mineral that might correct the ill qualities of the Sulphur, were permitted; and Waters Sulphurous, <hi>à praedominio,</hi> are ac<g ref="char:EOLhyphen"/>counted <hi>aptae ad potum,</hi> provided they
+<pb n="9" facs="tcp:49374:6"/>have Salt, Alume, Nitre, or any other Ingredient, that may give a check to the relaxing and effeminating nature of the Brimſtone. And of this ſort of Compound Sulphurous Waters are <hi>Galen</hi> and <hi>Alexander Trullianus</hi> to be underſtood, according to the judgment of their beſt Interpreters. But here, like a wheel within a wheel, this Queſtion may ariſe, which will need a ſolution.</p>
+            <p>Q. <hi>How come Bituminous and Sul<g ref="char:EOLhyphen"/>phurous Waters, to relax, and ef<g ref="char:EOLhyphen"/>feminate inwardly; when we find by experience, that outwardly uſed in Baths, they Strengthen and Cor<g ref="char:EOLhyphen"/>roborate?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The reaſon I conceive, muſt be chargeable on the mediate, or im<g ref="char:EOLhyphen"/>mediate application of the Waters to the nervous parts; for being exter<g ref="char:EOLhyphen"/>nally
+<pb n="10" facs="tcp:49374:7"/>uſed, the Skin and muſcular parts are a ſufficient defence againſt the relaxing quality, and being like<g ref="char:EOLhyphen"/>wiſe diſcuſſive, they diſſipate any impacted matter lodged in or about the Nerves, by which the free moti<g ref="char:EOLhyphen"/>on of the Animal Spirits is impeded, and conſequently Strength diminiſh<g ref="char:EOLhyphen"/>ed; Whereas in the immediate ap<g ref="char:EOLhyphen"/>plication to the Stomach and Inte<g ref="char:EOLhyphen"/>ſtines, they are leaſt able to reſiſt, and ſo in danger of receiving great<g ref="char:EOLhyphen"/>er prejudice. Thus if we keep a con<g ref="char:EOLhyphen"/>venient diſtance from the Fire, we receive its benefit, but approaching too near, without a very good Skreen, we experience its rage.</p>
+            <p>Waters tincted with <hi>Braſs</hi> are con<g ref="char:EOLhyphen"/>demned by ſome, on the account that they are very ſeldome free from <hi>Ae<g ref="char:EOLhyphen"/>rugo</hi> or <hi>Chryſocolla,</hi> which are dange<g ref="char:EOLhyphen"/>rous; but others allow the uſe of them
+<pb n="11" facs="tcp:49374:7"/>if they participate but ſlightly of the <hi>Minera,</hi> as the <hi>Viterbienſes,</hi> which are judged <hi>praeſtantiſſimae.</hi>
+            </p>
+            <p>The beſt Waters to be taken in<g ref="char:EOLhyphen"/>wardly, by the unanimous conſent of Judicious Writers, are ſuppoſed to be <hi>Salt, Nitrous, Aluminous,</hi> and <hi>Iron;</hi> which, beſides their moderate heating quality, are very friendly to the Stomach, and parts through which they paſs; and, what is the main Thing to be obſerved in the choice of Mineral Waters, paſs freely through the Body, either by Siege or Urine, without the addition of ſome helps, which other ſluggiſh Waters muſt have; which probably may ſomewhat alter their property, and render them leſs effectual, than thoſe that need not ſuch Additi<g ref="char:EOLhyphen"/>ons.</p>
+            <pb n="12" facs="tcp:49374:8"/>
+            <p>Alſo Gold, Silver, (if ſuch are to be found) and Marble Waters, without <hi>Gypſum,</hi> are eſteemed whol<g ref="char:EOLhyphen"/>ſome, and may ſafely be uſed as a Drink.</p>
+            <p>Theſe are the moſt conſiderable VVaters, Good, and Bad, I find men<g ref="char:EOLhyphen"/>tioned in Mineral Writers; by which any indifferent perſon may ſufficient<g ref="char:EOLhyphen"/>ly judge of the firſt part of the Que<g ref="char:EOLhyphen"/>ſtion propounded, provided he be aſſured of what Minerals the Waters of <hi>Bathe</hi> do conſiſt. If principally of <hi>Bitumen,</hi> with <hi>Nitre,</hi> and ſome <hi>Sulphur,</hi> as was the Opinion of Do<g ref="char:EOLhyphen"/>ctor <hi>Jorden,</hi> and is yet my own; there are two ingredients againſt one for the not uſing it as a Drink: yet in regard the <hi>Nitre</hi> ſeems to be in a greater proportion than the <hi>Sulphur,</hi> and by that means, may in ſome mea<g ref="char:EOLhyphen"/>ſure, qualifie and allay the Inconve<g ref="char:EOLhyphen"/>niences
+<pb n="13" facs="tcp:49374:8"/>that may ariſe from the two other Conſtituents, I judge, with ſome Cautions in the uſe thereof, they may be potable, though not ſo adviſeable as ſome other Mineral Waters are. And this is the moſt moderate Deciſion I can give of that part of the Queſtion that concerns the Security of the uſing the <hi>Bath-Water</hi> as a Drink.</p>
+            <p>As to the other, <hi>Viz.</hi> The Courſe to be taken by thoſe that would uſe it ſo, as to find benefit there<g ref="char:EOLhyphen"/>by; before I determine that, I muſt take the liberty to declare, that I find many irregularities in the Courſe which is now followed, which is ſo much different from a rational method, and the pra<g ref="char:EOLhyphen"/>ctice and directions of intelligent Phyſicians in other places; that one may eaſily conclude it a Brat,
+<pb n="14" facs="tcp:49374:9"/>if not begot, yet foſter'd by a Quack, whoſe Motto may be, <hi>Quo<g ref="char:EOLhyphen"/>cunque modo rem,</hi> and cares not what betides the Patient ſo the mo<g ref="char:EOLhyphen"/>ney be received.</p>
+            <p>The firſt irregularity I take no<g ref="char:EOLhyphen"/>tice of is, the general drinking the Waters without advice, or with advice as good as none; the prime thing to be conſidered being, whe<g ref="char:EOLhyphen"/>ther it be proper or not. This is incumbent on the Phyſician to de<g ref="char:EOLhyphen"/>termine, and cannot well be done without an exact knowledge both of the Waters, and the diſtempers the Patient labours under; Now, though, perhaps, it may be thought a reflection on the Faculty, to ſay, that ſome Phyſicians, or at leaſt pretenders to that Noble Art, are no ſo intelligent, who notwithſtand<g ref="char:EOLhyphen"/>ing are very liberal in their advice
+<pb n="15" facs="tcp:49374:9"/>for the taking the Waters; yet I muſt needs conclude, that if they are ſo, they very much ſtifle their knowledge, and thwart the known Rules of their Profeſſion, in advi<g ref="char:EOLhyphen"/>ſing perſons of quite contrary Tem<g ref="char:EOLhyphen"/>pers, and diſtempers, to an equal uſe of what, if beneficial to one, muſt be prejudicial to another. This was the old Quacking Trick in <hi>Galen</hi>'s time, of which an Ho<g ref="char:EOLhyphen"/>neſt Author gives this account; <hi>Dicimus praeceptum iſtud ut Medicus diligenter obſervet, an Potus Aquae conveniat, necne, eſſe ſumme neceſſa<g ref="char:EOLhyphen"/>rium, quia, ſine ipſo fieri nequit ali<g ref="char:EOLhyphen"/>quid, &amp; in hoc praecepto multi tum recentiorum, tum antiquorum pecca<g ref="char:EOLhyphen"/>runt, &amp; tempore etiam</hi> Galeni. <hi>Sunt enim inter medicos aliqui qui poſt<g ref="char:EOLhyphen"/>quam valde defatigarint aegros, &amp; aliquando praeter rationem &amp; in<g ref="char:EOLhyphen"/>ſtitutum, viderint quod res ſibi non
+<pb n="16" facs="tcp:49374:10"/>ſuccedit ſtatim, nulla alia conſidera<g ref="char:EOLhyphen"/>tione habita, relegent miſeros Patien<g ref="char:EOLhyphen"/>tes ad Aquas Thermales, tanquam ad anchoram ſacram, non conſide<g ref="char:EOLhyphen"/>rantes antea, an aquae illae conve<g ref="char:EOLhyphen"/>niant, vel non conveniant; vel quia ignorent naturam Aquarum, vel quia ignorent naturam morbi, vel utri<g ref="char:EOLhyphen"/>uſque ſimul, &amp; ita caſu quicquid agunt, agunt.</hi> I hope I ſhall not be ſo groſly miſtaken here, as to be thought by any to write this to diſcourage a Reſort, but rather to be a Monitor to the Reſidents on the place, that, if Phyſicians a<g ref="char:EOLhyphen"/>broad are not ſo circumſpect (as they may not be, on their confi<g ref="char:EOLhyphen"/>dence in them) they would ſo far diſcharge their own Conſciences, as well as evidence their skill, as to deal candidly and ingenuouſly with their Patients; neither are thoſe in any wiſe to be accounted
+<pb n="17" facs="tcp:49374:10"/>
+               <hi>Apollo's,</hi> but rather <hi>Apollyon's,</hi> who, regarding their Patients no more than poyſon'd Rats, care not what holes they dye in, provided they are ſecur'd againſt this, that they ſtink not on the place.</p>
+            <p>The next thing I blame in the ordinary courſe, is, the drinking of the Waters, and Bathing on the ſame day, nay oftentimes together, in the Bath it ſelf. How contrary this is, not only to the judgment of Rational Phyſicians, but Reaſon it ſelf, may appear from theſe words of a good Author. <hi>Sed neque Balneum Thermarum, dum aquae ſumuntur, adminiſtrandum eſt; quod hoc modo ratione contrariorum mo<g ref="char:EOLhyphen"/>tuum factorum à Balneo, quod ad Circumferentiam, &amp; à Potu, qui ad Centrum trahit, nimis aeger affligitur.</hi> And, that it may not be ſaid to
+<pb n="18" facs="tcp:49374:11"/>be only one Doctors opinion, (which, if grounded on Reaſon, is ſufficient, without which an opi<g ref="char:EOLhyphen"/>nion is nothing) another gives the ſame advice. <hi>Nec quoad infuſionem Corpor is placet, quoniam qui ita a<g ref="char:EOLhyphen"/>gunt, aſfligunt nimis aegrum ratione contrarii motus, qui motus contra<g ref="char:EOLhyphen"/>rius fit ab aqua in potum accepta, &amp; à Balneo. Nam aqua quae in corpore eſt, agit ducendo à Circum<g ref="char:EOLhyphen"/>ferentia ad Centrum; Infuſio vero è contra à Centro ad Circumferenti<g ref="char:EOLhyphen"/>am, unde niſi robuſtiſſimum fuerit Corpus non poterit perferre talem mo<g ref="char:EOLhyphen"/>tum.</hi>
+            </p>
+            <p>I confeſs this reaſon of a con<g ref="char:EOLhyphen"/>trary motion lies chiefly againſt Cathartick Waters, or thoſe Waters that move by ſiege, which muſt have a motion contrary to that of the <hi>Bath,</hi> which moves from the
+<pb n="19" facs="tcp:49374:11"/>Centre to the Circumference, or from the more inward parts, to the ha<g ref="char:EOLhyphen"/>bit of the Body; yet, in regard thoſe Waters that move by Urine, may, on the contrary, be too much accelerated, and ſooner than is fit<g ref="char:EOLhyphen"/>ting, precipitated to the Kidneys; by which, Nature, on ſo great a ſtrain, muſt likewiſe ſuffer ſome in<g ref="char:EOLhyphen"/>convenience inwardly, as well as an affliction from the <hi>Bath</hi> without; The prohibition holds good, as to Diuretick VVaters too, though not on the ſame, yet as good a ground.</p>
+            <p>A third Irregularity, I find, is, the Drinking of the VVaters with<g ref="char:EOLhyphen"/>out a due preparation of the Bo<g ref="char:EOLhyphen"/>dy before; which ought not to be done ſo ſlightly, as with a little Bath-water and Salt, but with ſuch frequent and repeated Purgations, as may be requiſite ſometimes. For
+<pb n="20" facs="tcp:49374:12"/>the VVaters muſt certainly firſt paſs through the Stomach and Guts, which, if they find foul, and not cleanſed from thoſe impurities that will undeniably lodge there on many occaſions, beſides that they taint the VVater, and render it leſs beneficial, are with the current car<g ref="char:EOLhyphen"/>ried farther into the body, where<g ref="char:EOLhyphen"/>by the intermediate paſſages are more obſtructed, and perhaps alſo the blood defiled. My Author therefore ſayes very well; <hi>Omnes &amp; vulgares etiam dicunt Purgatio<g ref="char:EOLhyphen"/>nem debere praecedere potum aqua<g ref="char:EOLhyphen"/>rum medicatarum, &amp; quamvis ali<g ref="char:EOLhyphen"/>quibus ſucceſſerit ſanatio abſque pur<g ref="char:EOLhyphen"/>gatione praemiſſa per pharmacum, ta<g ref="char:EOLhyphen"/>men raro hoc accidit; quare ante potum corpora ſunt diligentiſſime purganda, bis, ter, &amp; pluries, ſi o<g ref="char:EOLhyphen"/>pus fuerit.</hi>
+            </p>
+            <pb n="21" facs="tcp:49374:12"/>
+            <p>The fourth and laſt thing I ſhall take notice of as an <hi>Erra<g ref="char:EOLhyphen"/>tum,</hi> and ſo to be corrected, is, the drinking other Liquors, keeping too much company, and obſerving no regular Diet, in the taking of the VVaters, which muſt of neceſ<g ref="char:EOLhyphen"/>ſity prejudice their operation; where<g ref="char:EOLhyphen"/>as if they were permitted to take their own courſe, or had ſome en<g ref="char:EOLhyphen"/>couragements by meat and drink, they would be more apt to diſplay what Virtues they have to a great<g ref="char:EOLhyphen"/>er advantage. But many, Gentle<g ref="char:EOLhyphen"/>men eſpecially, are not contented with one good mornings draught, and in too ſhort a time after drink<g ref="char:EOLhyphen"/>ing the VVaters, gratifie their Ap<g ref="char:EOLhyphen"/>petite, which they fancy is height<g ref="char:EOLhyphen"/>ned by the uſe of the VVaters, with variety of Meats; ſo that the Sto<g ref="char:EOLhyphen"/>mach, though ſometimes at a dull rate, concocting, and the VVaters,
+<pb n="22" facs="tcp:49374:13"/>as they ſay, provoking, makes ſuch work for the draught, that, were they uſeful all the year, would prove more for the encouragement of the myſtery of the Gold-finders, than any thing I know in the world be<g ref="char:EOLhyphen"/>ſides.</p>
+            <p>That I may not be tedious in what I at firſt intended to be very brief, I ſhall now ſet down that courſe I think moſt convenient to be taken by thoſe that expect any benefit from the drinking of the VVaters. After previous prepara<g ref="char:EOLhyphen"/>tion of the Body, which is the work of the Phyſician, what concerns the Patient may be, To riſe about five or ſix of the clock in the mor<g ref="char:EOLhyphen"/>ning, and having diſcharged Na<g ref="char:EOLhyphen"/>tures burden, if occaſion require, and walked ſome few turns to ex<g ref="char:EOLhyphen"/>cite natural Heat, he may ſafely, if
+<pb n="23" facs="tcp:49374:13"/>of an indifferent Conſtitution, ad<g ref="char:EOLhyphen"/>venture on three pints of VVater the firſt time, to be taken in man<g ref="char:EOLhyphen"/>ner following; <hi>Viz.</hi> He, or ſhe, may have as much VVater as is neceſſary by them, out of which may be fil<g ref="char:EOLhyphen"/>led a Glaſs or Cup, containing half a Pint, two of which may be taken preſently; then walking gently a Quarter of an Hour, two more; and the like motion performed for ano<g ref="char:EOLhyphen"/>ther Quarter, the two laſt: The next day they may advance one glaſs more, and ſo every day increaſe half a Pint, till ſix Pints are com<g ref="char:EOLhyphen"/>pleated at one time, which is the higheſt doſe I judge convenient for ordinary conſtitutions. When that doſe is well received, I would not have the Patient ſtay long at this pitch, not above a day, two, or three at moſt, but deſcend again by the ſame ſteps he aſcended be<g ref="char:EOLhyphen"/>fore;
+<pb n="24" facs="tcp:49374:14"/>ſo that this courſe may hold twelve or fourteen dayes, without intermiſſion, or Bathing in the mean time, which will be a ſufficient try<g ref="char:EOLhyphen"/>al what the Waters will do. If it be judged requiſite, a longer courſe may be ordered, as the Phyſician ſhall think fit, who is to be con<g ref="char:EOLhyphen"/>ſulted in this caſe.</p>
+            <p>Thoſe that are, if I may ſo ſpeak, a ſize ſtronger in Conſtitution, lar<g ref="char:EOLhyphen"/>ger Bodies, and more violent di<g ref="char:EOLhyphen"/>ſtempers, may take a pottle at firſt in an hours time, walking, as be<g ref="char:EOLhyphen"/>fore directed, and ſo riſe up by the ſteps before mentioned, to a Gallon, which I judge ſufficient for the mid<g ref="char:EOLhyphen"/>dle ſort.</p>
+            <p>And thoſe that are of the largeſt ſize, and thought fit to bear the greateſt proportion, may begin with
+<pb n="25" facs="tcp:49374:14"/>five pints, and come up to ten; above which, I would not adviſe any per<g ref="char:EOLhyphen"/>ſon to go. This is the beſt Gage I can at preſent reſolve on, which yet may be ſomewhat varied according to the judgment of the Phyſician that attends.</p>
+            <p>About twelve of the clock (by which time the Waters may have made a conſiderable paſs) a light dinner may be taken of Eggs, Broth, or a cut of Veal, Mutton, Capon, Pullets, Chickens, and ſuch like meats of eaſie digeſtion; but to<g ref="char:EOLhyphen"/>wards night, at five of the clock at fartheſt, a freer meal may be made on the meats before mentioned, that ſo the Stomach may be cleared againſt the next morning again; if any Wines be uſed, I think Rheniſh, White, and Claret the beſt, and as lit<g ref="char:EOLhyphen"/>tle Beer or Ale as may be.</p>
+            <pb n="26" facs="tcp:49374:15"/>
+            <p>What relates to the diſtempers, it may be profitable for, and the Sym<g ref="char:EOLhyphen"/>ptomes ariſing ſometimes in the uſe, notwithſtanding all the Care and Circumſpection imaginable, I ſay nothing of here, as being part of the Phyſicians concern, but leave the work of Phyſicians to Phyſicians themſelves.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
